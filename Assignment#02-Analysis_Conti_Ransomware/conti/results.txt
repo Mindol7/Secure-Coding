@@ -1,0 +1,2 @@
+Total encrypted: 6
+Files encrypted: 6
